@@ -1,2 +1,2 @@
-# Struct_2
-Struct example
+# Nested struct
+Nested struct example
